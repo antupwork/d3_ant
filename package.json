@@ -1,0 +1,23 @@
+{
+  "name": "d3_ant",
+  "version": "1.0.0",
+  "description": "this is a d3js project",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antupwork/d3_ant.git"
+  },
+  "author": "Jarvis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antupwork/d3_ant/issues"
+  },
+  "homepage": "https://github.com/antupwork/d3_ant#readme",
+  "devDependencies": {
+    "d3": "^4.10.0",
+    "webpack": "^3.5.3"
+  }
+}
